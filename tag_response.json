@@ -1,0 +1,232 @@
+[
+    [
+        {
+            "Document Name": [
+                "Support-Vector-Machines-for-Classification.pdf"
+            ],
+            "URL": [
+                "https://www.researchgate.net/publication/300723807_Support_Vector_Machines_for_Classification"
+            ],
+            "Title": [
+                "Support-Vector-Machines-for-Classification"
+            ],
+            "Content Type": [
+                "pdf"
+            ],
+            "Date": 1616575513,
+            "Score": 1.529048
+        },
+        {
+            "Document Name": [
+                "jakkula.pdf"
+            ],
+            "URL": [
+                "https://course.ccs.neu.edu/cs5100f11/resources/jakkula.pdf"
+            ],
+            "Title": [
+                "jakkula"
+            ],
+            "Content Type": [
+                "pdf"
+            ],
+            "Date": 1616575507,
+            "Score": 1.5226611
+        },
+        {
+            "Document Name": [
+                "Lecture11.pdf"
+            ],
+            "URL": [
+                "https://www.csd.uwo.ca/~oveksler/Courses/CS434a_541a/Lecture11.pdf"
+            ],
+            "Title": [
+                "Lecture11"
+            ],
+            "Content Type": [
+                "pdf"
+            ],
+            "Date": 1616575537,
+            "Score": 1.5221937
+        },
+        {
+            "Document Name": [
+                "SVM.pdf"
+            ],
+            "URL": [
+                "http://www.cs.tau.ac.il/~rshamir/abdbm/pres/17/SVM.pdf"
+            ],
+            "Title": [
+                "SVM"
+            ],
+            "Content Type": [
+                "pdf"
+            ],
+            "Date": 1616575533,
+            "Score": 1.5111859
+        },
+        {
+            "Document Name": [
+                "svmdoc.pdf"
+            ],
+            "URL": [
+                "https://cran.r-project.org/web/packages/e1071/vignettes/svmdoc.pdf"
+            ],
+            "Title": [
+                "svmdoc"
+            ],
+            "Content Type": [
+                "pdf"
+            ],
+            "Date": 1616575518,
+            "Score": 1.5101074
+        }
+    ],
+    [
+        {
+            "Document Name": [
+                "Support Vector Machine Tutorial Using R  SVM Algorithm Explained  Data Science Training  Edureka.txt"
+            ],
+            "URL": [
+                "https://www.youtube.com/watch?v=RKZoJVMr6CU"
+            ],
+            "Title": [
+                "Support Vector Machine Tutorial Using R  SVM Algorithm Explained  Data Science Training  Edureka"
+            ],
+            "Content Type": [
+                "videos"
+            ],
+            "Date": 1616578202,
+            "Score": 1.5168099
+        },
+        {
+            "Document Name": [
+                "Support Vector Machine in R  SVM Algorithm Explained with Example  Data Science in R  Simplilearn.txt"
+            ],
+            "URL": [
+                "https://www.youtube.com/watch?v=QkAmOb1AMrY"
+            ],
+            "Title": [
+                "Support Vector Machine in R  SVM Algorithm Explained with Example  Data Science in R  Simplilearn"
+            ],
+            "Content Type": [
+                "videos"
+            ],
+            "Date": 1616578197,
+            "Score": 1.4980721
+        },
+        {
+            "Document Name": [
+                "Machine Learning Tutorial 5 - SVM Machine Learning Python for Beginners  Machine Learning Basics.txt"
+            ],
+            "URL": [
+                "https://www.youtube.com/watch?v=HtdhnGp-m74"
+            ],
+            "Title": [
+                "Machine Learning Tutorial 5 - SVM Machine Learning Python for Beginners  Machine Learning Basics"
+            ],
+            "Content Type": [
+                "videos"
+            ],
+            "Date": 1616578250,
+            "Score": 1.4915706
+        },
+        {
+            "Document Name": [
+                "Support Vector Machine - How Support Vector Machine Works  SVM In Machine Learning  Simplilearn.txt"
+            ],
+            "URL": [
+                "https://www.youtube.com/watch?v=TtKF996oEl8"
+            ],
+            "Title": [
+                "Support Vector Machine - How Support Vector Machine Works  SVM In Machine Learning  Simplilearn"
+            ],
+            "Content Type": [
+                "videos"
+            ],
+            "Date": 1616578135,
+            "Score": 1.4740256
+        },
+        {
+            "Document Name": [
+                "Support Vector Machine (SVM) Basic Intuition- Part 1 Machine Learning.txt"
+            ],
+            "URL": [
+                "https://www.youtube.com/watch?v=H9yACitf-KM"
+            ],
+            "Title": [
+                "Support Vector Machine (SVM) Basic Intuition- Part 1 Machine Learning"
+            ],
+            "Content Type": [
+                "videos"
+            ],
+            "Date": 1616578140,
+            "Score": 1.4628775
+        }
+    ],
+    [
+        {
+            "Document Name": [
+                "SVM18.txt"
+            ],
+            "URL": [
+                "https://www.datacamp.com/community/tutorials/svm-classification-scikit-learn-python"
+            ],
+            "Title": [
+                "SVM18"
+            ],
+            "Content Type": [
+                "text"
+            ],
+            "Date": 1616576331,
+            "Score": 1.5013927
+        },
+        {
+            "Document Name": [
+                "SVM1.txt"
+            ],
+            "URL": [
+                "https://monkeylearn.com/text-classification-support-vector-machines-svm/"
+            ],
+            "Title": [
+                "SVM1"
+            ],
+            "Content Type": [
+                "text"
+            ],
+            "Date": 1616576303,
+            "Score": 1.497172
+        },
+        {
+            "Document Name": [
+                "SVM3.txt"
+            ],
+            "URL": [
+                "https://nlp.stanford.edu/IR-book/html/htmledition/support-vector-machines-and-machine-learning-on-documents-1.html"
+            ],
+            "Title": [
+                "SVM3"
+            ],
+            "Content Type": [
+                "text"
+            ],
+            "Date": 1616576305,
+            "Score": 1.4510705
+        },
+        {
+            "Document Name": [
+                "SVM9.txt"
+            ],
+            "URL": [
+                "https://www.svm-tutorial.com/2014/10/svm-linear-kernel-good-text-classification/"
+            ],
+            "Title": [
+                "SVM9"
+            ],
+            "Content Type": [
+                "text"
+            ],
+            "Date": 1616576312,
+            "Score": 1.4384364
+        }
+    ]
+]
